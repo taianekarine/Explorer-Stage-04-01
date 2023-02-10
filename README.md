@@ -41,8 +41,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Estrutura de repetição
 - Operadores
 
-## Você pode acessar o projeto e ver seus efeitos no site abaixo
-
 ---
 
 Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
