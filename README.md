@@ -3,7 +3,6 @@
 
 <p align="center">
 - Introdução aos conceitos do JavaScript
-- Introdução à programação, lógica e algoritmos em Javascript
 
 </p>
 
