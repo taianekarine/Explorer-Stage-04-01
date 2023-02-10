@@ -16,7 +16,7 @@
   Substitua o "x" da mensagem, pelo número de tentativas
 */
 
-// let result = prompt('Advinhe o número que estou pensando? Está entre 0 e 10.');
+let result = prompt('Advinhe o número que estou pensando? Está entre 0 e 10.');
 
 let Attemps = 1;
 const randonNumber = Math.round(Math.random() * 10);
