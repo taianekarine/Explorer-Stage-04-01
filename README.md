@@ -34,11 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Aprendizado
 
-- Sintaxe e boas práticas
-- Variáveis
-- Tipos de dados
-- Estrutura de repetição
-- Operadores
+- Sintaxe e boas práticas;
+- Variáveis;
+- Tipos de dados;
+- Estrutura de repetição;
+- Operadores;
 
 ---
 
